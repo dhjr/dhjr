@@ -42,7 +42,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/dhananjayrjs1605/dhananjayrjs1605/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dhjr/dhjr/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhananjayrjs1605&color=blue)
