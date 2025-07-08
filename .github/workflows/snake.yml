@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
+    - cron: "0 0 * * *"  # runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
           github_user_name: dhjr
           config_file: config/snake-config-dark.json
           outputs: |
-            dist/github-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
