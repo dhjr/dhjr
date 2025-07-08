@@ -40,9 +40,8 @@
 
 ---
 
-## 🐍 Contribution Snake
+![snake gif](https://github.com/dhjr/dhjr/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/dhjr/dhjr/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhananjayrjs1605&color=blue)
