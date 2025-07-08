@@ -1,0 +1,16 @@
+{
+  "theme": "dark",
+  "color_snake": "#00FFFF",
+  "color_dots": {
+    "base": "#222222",
+    "post": "#FFD700",
+    "highlight": "#FFFFFF"
+  },
+  "animation": {
+    "duration": 1.5,
+    "pause": 0.2
+  },
+  "size": {
+    "pixels": 15
+  }
+}
