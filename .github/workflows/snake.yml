@@ -13,9 +13,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: dhjr
+          config_file: config/snake-config-dark.json
           outputs: |
             dist/github-snake-dark.svg
-            config_file: config/snake-config-dark.json
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
