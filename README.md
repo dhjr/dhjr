@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=96F7C6&width=435&lines=Hi+I'm+Dhananjay!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-https://devcard.link/hP9V2t 
+<a href="https://devcard.link/dhananjayrjs1605">
+  <img src="https://api.devcard.link/api/devcard?user=dhananjayrjs1605&theme=dark" width="400" alt="Dev Card"/>
+</a>
 ---
 
 ## 🌐 Let's Connect:
