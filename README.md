@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=96F7C6&width=435&lines=Hi+I'm+Dhananjay!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-, a developer from Kerala — passionate about  
-building clean and responsive UIs,  
-solving real-world problems with code,  
-and staying curious about AI.  
-Currently working on exciting projects in full-stack development and YouTube.
-
+https://devcard.link/hP9V2t 
 ---
 
 ## 🌐 Let's Connect:
