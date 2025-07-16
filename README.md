@@ -22,16 +22,17 @@
 
 ## 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="36" height="36"/>
+  <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" width="36" height="36"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" alt="Notion" width="36" height="36"/>
+</p>
 ---
 
 ## 📊 GitHub Stats:
