@@ -36,7 +36,7 @@
   </tr>
   <tr align="center" valign="middle">
     <td><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" width="36"/></td>
-    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-astro-a-modern-static-site-generator-logo-color-tal-revivo.png" alt="Astro" width="36"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" width="36"/></td>
     <td><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="36"/></td>
     <td><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36"/></td>
     <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36"/></td>
