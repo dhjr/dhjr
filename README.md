@@ -26,6 +26,10 @@
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="36" height="36"/>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/astronautdev/assets/main/astro-icon-light.svg" alt="Astro" width="36" height="36" style="background-color:#000; padding:4px; border-radius:6px;"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36" height="36"/>
@@ -33,6 +37,7 @@
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="36" height="36" style="background-color:#000; border-radius:6px; padding:4px;"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="36" height="36" style="background-color:#000; border-radius:6px; padding:4px;"/>
 </p>
+
 
 ---
 
