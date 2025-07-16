@@ -5,7 +5,7 @@
 ## 🌐 Let's Connect:
 
 <table>
-  <tr>
+  <tr align="center" valign="middle">
     <td>
       <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank">
         <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36"/>
@@ -23,7 +23,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 💻 Tech Stack:
