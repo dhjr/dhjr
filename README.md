@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="36" height="36"/>
   <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" width="36" height="36"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-astro-a-modern-static-site-generator-logo-color-tal-revivo.png" alt="Astro" width="36" height="36"/>
+  <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36" height="36"/>
