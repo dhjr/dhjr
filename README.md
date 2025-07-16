@@ -24,6 +24,7 @@
   </tr>
 </table>
 ---
+
 ## 💻 Tech Stack:
 
 <table>
