@@ -6,13 +6,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36" height="36" style="display:inline-block;"/>
   </a>
   <a href="https://x.com/dhananjayr_" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="36" height="36" style="background-color:black; border-radius:6px; padding:4px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="36" height="36" style="background-color:black; border-radius:6px; padding:4px; display:inline-block;"/>
   </a>
   <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="36" height="36"/>
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="36" height="36" style="display:inline-block;"/>
   </a>
 </p>
 
