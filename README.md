@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36" height="36"/>
   </a>
   <a href="https://x.com/dhananjayr_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_white.svg" alt="X" width="36" height="36" style="background-color:black; padding:4px; border-radius:6px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="36" height="36" style="background-color:black; border-radius:6px; padding:4px;"/>
   </a>
   <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="36" height="36"/>
