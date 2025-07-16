@@ -8,17 +8,17 @@
   <tr align="center" valign="middle">
     <td>
       <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank">
-        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36"/>
+        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
       </a>
     </td>
     <td>
       <a href="https://x.com/dhananjayr_" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="36" style="background-color:black; border-radius:6px; padding:4px;"/>
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="40" style="background-color:black; border-radius:6px; padding:4px;"/>
       </a>
     </td>
     <td>
       <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
-        <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="36"/>
+        <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40"/>
       </a>
     </td>
   </tr>
@@ -30,23 +30,23 @@
 
 <table>
   <tr align="center" valign="middle">
-    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="36"/></td>
+    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/></td>
   </tr>
   <tr align="center" valign="middle">
-    <td><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" width="36"/></td>
-    <td><img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36"/></td>
-    <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36"/></td>
+    <td><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" width="40"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40"/></td>
   </tr>
   <tr align="center" valign="middle">
-    <td><img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="36"/></td>
-    <td><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="36" style="background-color:#000; border-radius:6px; padding:4px;"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="36" style="background-color:#000; border-radius:6px; padding:4px;"/></td>
+    <td><img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="40" style="background-color:#000; border-radius:6px; padding:4px;"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="40" style="background-color:#000; border-radius:6px; padding:4px;"/></td>
     <td></td>
     <td></td>
   </tr>
