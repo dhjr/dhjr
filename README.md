@@ -30,9 +30,10 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="36" height="36"/>
   <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="36" height="36"/>
-  <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub" width="36" height="36"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" alt="Notion" width="36" height="36"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="36" height="36" style="background-color:#000; border-radius:6px; padding:4px;"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="36" height="36" style="background-color:#000; border-radius:6px; padding:4px;"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats:
