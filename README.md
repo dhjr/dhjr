@@ -6,10 +6,7 @@
 
 ## 🌐 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjayr/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhananjayr_)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)
-
+<p align="left"> <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank"> <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="margin-right: 10px;" /> </a> <a href="https://x.com/dhananjayr_" target="_blank"> <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" height="30" style="margin-right: 10px;" /> </a> <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank"> <img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30" height="30" style="margin-right: 10px;" /> </a> </p>
 ---
 
 ## 💻 Tech Stack:
