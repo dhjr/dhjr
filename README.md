@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=96F7C6&width=435&lines=Hi+I'm+Dhananjay!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
-
 ---
 
 ## 🌐 Let's Connect:
@@ -55,7 +53,5 @@
 ---
 
 ![snake gif](https://github.com/dhjr/dhjr/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhananjayrjs1605&color=blue)
