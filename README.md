@@ -6,7 +6,7 @@
 
 ## 🌐 Let's Connect:
 
-<p align="left"> <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank"> <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="margin-right: 10px;" /> </a> <a href="https://x.com/dhananjayr_" target="_blank"> <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" height="30" style="margin-right: 10px;" /> </a> <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank"> <img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30" height="30" style="margin-right: 10px;" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dhananjayr/" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36" height="36"/> </a> <a href="https://x.com/dhananjayr_" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="X" width="36" height="36"/> </a> <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank"> <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="36" height="36"/> </a> </p>
 ---
 
 ## 💻 Tech Stack:
