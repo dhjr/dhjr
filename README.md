@@ -31,7 +31,7 @@
   <tr>
     <td width="100" align="center" valign="top">
       <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
-        <img src="URL_TO_YOUR_LOGO_IMAGE" alt="Let the Devs Cook Logo" width="80" style="border-radius:50%;"/>
+        <img src="https://yt3.googleusercontent.com/AaIlKW_6lCm57WEvTJgrs7I3sgeNQgzz6JDdZeBL82TfDaJNKSTK9_WZ1FnSHp0yLRDxCQzCTOU=s160-c-k-c0x00ffffff-no-rj" alt="Let the Devs Cook Logo" width="80" style="border-radius:50%;"/>
       </a>
     </td>
     <td valign="top">
