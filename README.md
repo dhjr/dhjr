@@ -22,7 +22,7 @@
     </td>
     <td>
       <a href="https://www.instagram.com/dhananjayr_/" target="_blank">
-        <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40"/>
       </a>
     </td>
   </tr>
