@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=30&pause=1000&color=1EC1D7&vCenter=true&width=435&height=60&lines=Hello. I'm+Dhananjay+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=30&pause=1000&color=1EC1D7&vCenter=true&width=435&height=60&lines=Hello.+I'm+Dhananjay+%F0%9F%98%89)](https://git.io/typing-svg)
 ---
 
 ## 🌐 Let's Connect:
