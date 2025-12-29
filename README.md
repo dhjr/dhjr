@@ -29,30 +29,24 @@
 
 <table>
   <tr>
-    <td width="100" align="center" valign="top">
+    <td width="100" align="center" valign="middle">
       <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
-        <img src="https://yt3.googleusercontent.com/AaIlKW_6lCm57WEvTJgrs7I3sgeNQgzz6JDdZeBL82TfDaJNKSTK9_WZ1FnSHp0yLRDxCQzCTOU=s160-c-k-c0x00ffffff-no-rj" alt="Let the Devs Cook Logo" width="80" style="border-radius:50%;"/>
+        <img src="https://yt3.googleusercontent.com/AaIlKW_6lCm57WEvTJgrs7I3sgeNQgzz6JDdZeBL82TfDaJNKSTK9_WZ1FnSHp0yLRDxCQzCTOU=s160-c-k-c0x00ffffff-no-rj" alt="Let the Devs Cook Logo" width="80" style="border-radius:50%; display: block;"/>
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle" style="padding-left: 20px;">
       <h3><a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P">Let the Devs Cook</a></h3>
       <p>
         When I'm not building projects, I’m working on my YouTube channel, which I run alongside my brother. We started this channel to share our combined passion for web development.
       </p>
       <p>
-        Our goal is to release genuine, high-quality content—whether it's breaking down complex frameworks or building full-stack applications from scratch. If you're looking to level up your skills or just want to see how we approach modern tech, feel free to stop by and check out what we've been working on.
+        Our goal is to release genuine, high-quality content—whether it's breaking down complex frameworks or building full-stack applications from scratch. If you're interested in modern tech walkthroughs, feel free to stop by and check out what we've been working on.
       </p>
     </td>
   </tr>
 </table>
 
 ---
-
-## 📺 Featured Channel: Let the Devs Cook
-
-I also run a YouTube channel called **[Let the Devs Cook](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)**, where we release content focused on **Web Development**. If you're looking to level up your dev skills or see some cool projects being built, come join the kitchen!
-
-[<img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Let the Devs Cook"/>](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)
 
 ## 💻 Tech Stack
 
