@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=30&pause=1000&color=1EC1D7&vCenter=true&width=435&height=60&lines=Hello.I'm+Dhananjay+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=30&pause=1000&color=1EC1D7&vCenter=true&width=435&height=60&lines=Hello. I'm+Dhananjay+%F0%9F%98%89)](https://git.io/typing-svg)
 ---
 
 ## 🌐 Let's Connect:
@@ -26,88 +26,60 @@
 ---
 
 ## 💻 Tech Stack
-## 🌐 Languages
-<table> <tr align="center"> <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
 
-
-JavaScript</td> <td><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/>
-
-
-TypeScript</td> <td><img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40"/>
-
-
-Python</td> <td><img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40"/>
-
-
-C</td> <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40"/>
-
-
-Java</td> </tr> </table>
-
-## 🎨 Frontend
-<table> <tr align="center"> <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/>
-
-
-HTML5</td> <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
-
-
-CSS3</td> <td><img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40"/>
-
-
-Next.js</td> <td><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/>
-
-
-React</td> <td><img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" width="40"/>
-
-
-Astro</td> <td><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind" width="40"/>
-
-
-Tailwind</td> </tr> </table>
-
-## ⚙️ Backend & Databases
-<table> <tr align="center"> <td><img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="40"/>
-
-
-Node.js</td> <td><img src="https://img.icons8.com/color/48/express-js.png" alt="Express.js" width="40"/>
-
-
-Express.js</td> <td><img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40"/>
-
-
-PostgreSQL</td> <td><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
-
-
-MySQL</td> </tr> </table>
-
-## 🛠️ Tools & Environment
-<table> <tr align="center"> <td><img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
-
-
-Git</td> <td><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="40" style="background-color:#000; border-radius:6px; padding:4px;"/>
-
-
-GitHub</td> <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" alt="Postman" width="40"/>
-
-
-Postman</td> <td><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-vercel-a-cloud-platform-as-a-service-company-logotype-logo-bold-tal-revivo.png" alt="Vercel" width="40" style="background-color:#000; border-radius:6px; padding:4px;"/>
-
-
-Vercel</td> <td><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
-
-
-VS Code</td> <td><img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="40"/>
-
-
-Ubuntu</td> <td><img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/>
-
-
-Canva</td> <td><img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" alt="Notion" width="40" style="background-color:#000; border-radius:6px; padding:4px;"/>
-
-
-Notion</td> </tr> </table>
-
-
+<table width="100%">
+  <tr>
+    <th width="50%">🌐 Languages</th>
+    <th width="50%">🎨 Frontend</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/javascript--v1.png" width="35" alt="JS"/>
+      <img src="https://img.icons8.com/color/48/typescript.png" width="35" alt="TS"/>
+      <img src="https://img.icons8.com/color/48/python--v1.png" width="35" alt="Python"/>
+      <img src="https://img.icons8.com/color/48/c-programming.png" width="35" alt="C"/>
+      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="35" alt="Java"/>
+      <br/>
+      <sub><b>JS | TS | Python | C | Java</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/html-5--v1.png" width="35" alt="HTML"/>
+      <img src="https://img.icons8.com/color/48/css3.png" width="35" alt="CSS"/>
+      <img src="https://img.icons8.com/fluency/48/nextjs.png" width="35" alt="NextJS"/>
+      <img src="https://img.icons8.com/color/48/react-native.png" width="35" alt="React"/>
+      <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="35" alt="Astro"/>
+      <img src="https://img.icons8.com/fluency/48/tailwind_css.png" width="35" alt="Tailwind"/>
+      <br/>
+      <sub><b>HTML | CSS | NextJS | React | Astro | Tailwind</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%">⚙️ Backend</th>
+    <th width="50%">🛠️ Tools & OS</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/fluency/48/node-js.png" width="35" alt="NodeJS"/>
+      <img src="https://img.icons8.com/color/48/express-js.png" width="35" alt="ExpressJS"/>
+      <img src="https://img.icons8.com/color/48/postgreesql.png" width="35" alt="Postgres"/>
+      <img src="https://img.icons8.com/color/48/mysql-logo.png" width="35" alt="MySQL"/>
+      <br/>
+      <sub><b>NodeJS | Express | PostgreSQL | MySQL</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.icons8.com/color/48/git.png" width="30" alt="Git"/>
+      <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="30" alt="GitHub" style="background-color:#000; border-radius:4px; padding:2px;"/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" width="30" alt="Postman"/>
+      <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-vercel-a-cloud-platform-as-a-service-company-logotype-logo-bold-tal-revivo.png" width="30" alt="Vercel" style="background-color:#000; border-radius:4px; padding:2px;"/>
+      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" alt="VSCode"/>
+      <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="30" alt="Ubuntu"/>
+      <img src="https://img.icons8.com/color/48/canva.png" width="30" alt="Canva"/>
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" width="30" alt="Notion" style="background-color:#000; border-radius:4px; padding:2px;"/>
+      <br/>
+      <sub><b>Git | GitHub | Postman | Vercel | VSCode | Ubuntu | Canva | Notion</b></sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats:
