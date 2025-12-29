@@ -16,11 +16,6 @@
       </a>
     </td>
     <td>
-      <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
-        <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40"/>
-      </a>
-    </td>
-    <td>
       <a href="https://www.instagram.com/dhananjayr_/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40"/>
       </a>
@@ -28,6 +23,13 @@
   </tr>
 </table>
 
+---
+
+## 📺 Featured Channel: Let the Devs Cook
+
+I also run a YouTube channel called **[Let the Devs Cook](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)**, where we release content focused on **Web Development**. If you're looking to level up your dev skills or see some cool projects being built, come join the kitchen!
+
+[<img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Let the Devs Cook"/>](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)
 
 ## 💻 Tech Stack
 
