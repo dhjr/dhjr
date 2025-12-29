@@ -25,6 +25,29 @@
 
 ---
 
+## 👨‍💻 Beyond the Code
+
+<table>
+  <tr>
+    <td width="100" align="center" valign="top">
+      <a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P" target="_blank">
+        <img src="URL_TO_YOUR_LOGO_IMAGE" alt="Let the Devs Cook Logo" width="80" style="border-radius:50%;"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P">Let the Devs Cook</a></h3>
+      <p>
+        When I'm not building projects, I’m working on my YouTube channel, which I run alongside my brother. We started this channel to share our combined passion for web development.
+      </p>
+      <p>
+        Our goal is to release genuine, high-quality content—whether it's breaking down complex frameworks or building full-stack applications from scratch. If you're looking to level up your skills or just want to see how we approach modern tech, feel free to stop by and check out what we've been working on.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📺 Featured Channel: Let the Devs Cook
 
 I also run a YouTube channel called **[Let the Devs Cook](https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P)**, where we release content focused on **Web Development**. If you're looking to level up your dev skills or see some cool projects being built, come join the kitchen!
