@@ -123,6 +123,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+
+## 🚀 Featured Projects
+
+- 🎬 [Victoria Film Website](https://www.victoriafilm.in) — Official site for a Malayalam feature film, built with Astro and Mux.
+
 ---
 
 ## 📊 GitHub Stats:
@@ -133,11 +141,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhjr&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
-## 🚀 Featured Projects
-
-- 🎬 [Victoria Film Website](https://www.victoriafilm.in) — Official site for a Malayalam feature film, built with Astro and Mux.
-
----
 
 ![snake gif](https://github.com/dhjr/dhjr/blob/output/github-contribution-grid-snake-dark.svg)
 
