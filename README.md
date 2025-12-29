@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=30&pause=1000&color=1EC1D7&vCenter=true&width=435&height=60&lines=Hello.+I'm+Dhananjay+%F0%9F%98%89)](https://git.io/typing-svg)
 ---
-
 ## 🌐 Let's Connect:
 
 <table>
@@ -20,9 +19,13 @@
         <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" width="40"/>
       </a>
     </td>
+    <td>
+      <a href="https://www.instagram.com/dhananjayr_/" target="_blank">
+        <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
+      </a>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 💻 Tech Stack
