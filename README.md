@@ -33,24 +33,24 @@
     <th width="50%">🎨 Frontend</th>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/javascript--v1.png" width="35" alt="JS"/>
-      <img src="https://img.icons8.com/color/48/typescript.png" width="35" alt="TS"/>
-      <img src="https://img.icons8.com/color/48/python--v1.png" width="35" alt="Python"/>
-      <img src="https://img.icons8.com/color/48/c-programming.png" width="35" alt="C"/>
-      <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="35" alt="Java"/>
-      <br/>
-      <sub><b>JS | TS | Python | C | Java</b></sub>
+    <td align="center" valign="top" style="padding: 15px;">
+        <img src="https://img.icons8.com/color/48/javascript--v1.png" width="42" alt="JS"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/typescript.png" width="42" alt="TS"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/python--v1.png" width="42" alt="Python"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/c-programming.png" width="42" alt="C"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="42" alt="Java"/>
+        <br/><br/>
+        <sub><b>JS | TS | Python | C | Java</b></sub>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/html-5--v1.png" width="35" alt="HTML"/>
-      <img src="https://img.icons8.com/color/48/css3.png" width="35" alt="CSS"/>
-      <img src="https://img.icons8.com/fluency/48/nextjs.png" width="35" alt="NextJS"/>
-      <img src="https://img.icons8.com/color/48/react-native.png" width="35" alt="React"/>
-      <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="35" alt="Astro"/>
-      <img src="https://img.icons8.com/fluency/48/tailwind_css.png" width="35" alt="Tailwind"/>
-      <br/>
-      <sub><b>HTML | CSS | NextJS | React | Astro | Tailwind</b></sub>
+    <td align="center" valign="top" style="padding: 15px;">
+        <img src="https://img.icons8.com/color/48/html-5--v1.png" width="42" alt="HTML"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/css3.png" width="42" alt="CSS"/>&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" alt="NextJS"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/react-native.png" width="42" alt="React"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" width="42" alt="Astro"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/fluency/48/tailwind_css.png" width="42" alt="Tailwind"/>
+        <br/><br/>
+        <sub><b>HTML | CSS | NextJS | React | Astro | Tailwind</b></sub>
     </td>
   </tr>
   <tr>
@@ -58,25 +58,25 @@
     <th width="50%">🛠️ Tools & OS</th>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/fluency/48/node-js.png" width="35" alt="NodeJS"/>
-      <img src="https://img.icons8.com/color/48/express-js.png" width="35" alt="ExpressJS"/>
-      <img src="https://img.icons8.com/color/48/postgreesql.png" width="35" alt="Postgres"/>
-      <img src="https://img.icons8.com/color/48/mysql-logo.png" width="35" alt="MySQL"/>
-      <br/>
-      <sub><b>NodeJS | Express | PostgreSQL | MySQL</b></sub>
+    <td align="center" valign="top" style="padding: 15px;">
+        <img src="https://img.icons8.com/fluency/48/node-js.png" width="42" alt="NodeJS"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/express-js.png" width="42" alt="ExpressJS"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/postgreesql.png" width="42" alt="Postgres"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/mysql-logo.png" width="42" alt="MySQL"/>
+        <br/><br/>
+        <sub><b>NodeJS | Express | PostgreSQL | MySQL</b></sub>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.icons8.com/color/48/git.png" width="30" alt="Git"/>
-      <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="30" alt="GitHub" style="background-color:#000; border-radius:4px; padding:2px;"/>
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-platform-logo-color-tal-revivo.png" width="30" alt="Postman"/>
-      <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-vercel-a-cloud-platform-as-a-service-company-logotype-logo-bold-tal-revivo.png" width="30" alt="Vercel" style="background-color:#000; border-radius:4px; padding:2px;"/>
-      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" alt="VSCode"/>
-      <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="30" alt="Ubuntu"/>
-      <img src="https://img.icons8.com/color/48/canva.png" width="30" alt="Canva"/>
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" width="30" alt="Notion" style="background-color:#000; border-radius:4px; padding:2px;"/>
-      <br/>
-      <sub><b>Git | GitHub | Postman | Vercel | VSCode | Ubuntu | Canva | Notion</b></sub>
+    <td align="center" valign="top" style="padding: 15px;">
+        <img src="https://img.icons8.com/color/48/git.png" width="38" alt="Git"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="38" alt="GitHub" style="background-color:#000; border-radius:6px; padding:3px;"/>&nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" alt="Postman"/>&nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" alt="Vercel"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="38" alt="VSCode"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="38" alt="Ubuntu"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/color/48/canva.png" width="38" alt="Canva"/>&nbsp;&nbsp;
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/notion.png" width="38" alt="Notion" style="background-color:#000; border-radius:6px; padding:3px;"/>
+        <br/><br/>
+        <sub><b>Git | GitHub | Postman | Vercel | VSCode | Ubuntu | Canva | Notion</b></sub>
     </td>
   </tr>
 </table>
