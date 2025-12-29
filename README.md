@@ -16,7 +16,6 @@ B.Tech Computer Science student and Full Stack Developer. I build for the web an
 ## 🛠️ Current Focus
 
 I am currently deepening my knowledge in **Backend Development**, focusing on:
-- Designing scalable system architectures.
 - Mastering database management and optimization.
 - Building robust APIs to power complex web applications.
 
