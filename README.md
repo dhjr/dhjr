@@ -34,6 +34,7 @@ I am currently deepening my knowledge in **Backend Development**, focusing on:
       <h3><a href="https://youtube.com/@letthedevscook?si=nxdvyEfkoiX4Ya1P">Let the Devs Cook</a></h3>
       <p>
         A YouTube channel run by me and my brother. We share our passion for web development through genuine, high-quality content—from building full-stack apps to deep-diving into new frameworks. Stop by the kitchen and see what we've been cooking!
+        Currently at 586 subs :D
       </p>
     </td>
   </tr>
