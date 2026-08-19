@@ -9,7 +9,7 @@ Passionate about building stunning and performant UI/UX.
 
 
 ## 🔗 Connect with me
-🌐 **Portfolio:** [dhjr.vercel.app](https://dhjr.vercel.app)<br>
+🌐 **Portfolio:** [dhjr.vercel.app](https://dhananjayr.com)<br>
 📧 **Email:** [dhjr.dev@gmail.com](mailto:dhjr.dev@gmail.com)
 
 
